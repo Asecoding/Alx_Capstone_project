@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'Alx_ecommerce_project.wsgi.application'
 DATABASES = {
     'default': {
         ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'blogdb',
+        'NAME': 'ecommerceapp',
         'USER': 'Ase',
         'PASSWORD': '1234',
         'HOST': 'localhost',
